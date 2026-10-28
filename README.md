@@ -5,7 +5,7 @@ A simple haunted website.
 <img width="1501" height="722" alt="image" src="https://github.com/user-attachments/assets/49d4a7f2-813b-431a-bc74-ffba50fc3dea" />
 
 ## Description
-Its a very simple website built using HTML, CSS ,JavaScript. i used all the basic stuffs here to build this to keep it simple and clean. I made 5 icons work which tells you something and eventually you will get a warning
+Its a very simple website built using HTML, CSS ,JavaScript. i used all the basic stuffs here to build this to keep it simple and clean. I made 5 icons work which tells you something and eventually you will get a warning with black screen and unusual fonts and size!
 
 ## Getting started
 ### Dependencies
@@ -13,6 +13,7 @@ Its a very simple website built using HTML, CSS ,JavaScript. i used all the basi
 - No need to install anything in advance
 ### Installing and Execution
 - Please click the below link to access the website
+- https://piyushoutthere-spec.github.io/Weby-33/
 
 ## Tech Stacks
 - I used google fonts and online sources to get background and music.
@@ -20,3 +21,6 @@ Its a very simple website built using HTML, CSS ,JavaScript. i used all the basi
 
 ## Inspiration 
 It is inspired from my very own previous website i made for 3AM event!!
+
+## License
+This project is made for personal use.
