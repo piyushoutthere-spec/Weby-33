@@ -53,3 +53,9 @@ h1 {
     max-width: 850px;
     line-height: 2;
 }
+
+#msg-area {
+    display:block;
+    width:100%;
+    text-align: center;
+}
