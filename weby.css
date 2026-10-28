@@ -24,3 +24,32 @@ h1 {
     color:orange;
     font-size: 70px;
 }
+
+/*arranging icons in center*/
+.icons{
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    margin-top: 40px;
+}
+
+/*removing the default button appearence*/
+.icon {
+    border:none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.icon span {
+    display:block;
+    font-size: 55px;
+    margin-bottom: 22px;
+}
+
+#message{
+    color:darkorange;
+    font-size: 30px;
+    margin:35px auto;
+    max-width: 850px;
+    line-height: 2;
+}
